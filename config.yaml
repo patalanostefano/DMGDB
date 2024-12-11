@@ -1,0 +1,16 @@
+# config.yaml
+limit: 5
+
+# Neo4j configurations
+neo4j_config:
+  url: "neo4j+ssc://bc1e22a5.databases.neo4j.io"
+  database: "neo4j"
+  user: "neo4j"
+  password: "FgT82ozrijBRXCmi1oQNK5Le8DAHqz90-YYtHXLjLjk"
+
+# Generation configurations
+max_new_tokens: 100
+temperature: 1.5
+do_sample: true
+top_p: 0.9
+

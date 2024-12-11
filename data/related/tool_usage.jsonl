@@ -1,0 +1,2 @@
+{"instruction": "Trova l'articolo 1325 del codice civile", "response": "Cercherò l'articolo sui requisiti del contratto.\n{\"type\": \"tool_use\", \"name\": \"search_by_article\", \"input\": {\"doc_name\": \"Codice Civile\", \"article\": \"Art. 1325\"}}"}
+{"instruction": "Cerca sentenze sulla nullità del contratto per mancanza di forma", "response": "Cercherò la giurisprudenza rilevante.\n{\"type\": \"tool_use\", \"name\": \"search_by_text\", \"input\": {\"text\": \"nullità contratto mancanza forma scritta\"}}"}
