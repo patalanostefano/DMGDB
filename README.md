@@ -1,4 +1,4 @@
-# Legal Graph RAG System
+# DMGDB Scalable Graph RAG on a large corpus of legal documents
 
 ## Overview
 This project implements an advanced Graph-based Retrieval-Augmented Generation (RAG) system specifically designed for the Italian legal domain. The system efficiently handles legal documents of various formats, implementing accurate graph RAG techniques and creating a dynamic, scalable knowledge base for legal information retrieval and question answering.
